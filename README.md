@@ -1,1 +1,2 @@
 # wnt-egfr-project
+During my bachelors degree I worked on a research project that combined biology and physics. In this project we modeled biological systems utilizing mathematical equations. In order to use the model reduction programs that my professor wrote we needed to provide the mass action kinetic equations to the program. Each equation effects the other in its creation which would make doing the equations by hand near impossible for complex systems. My job was to create a Python script that automated the equations. 
